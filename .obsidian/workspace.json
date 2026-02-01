@@ -110,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "资料分析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "资料分析 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -129,12 +128,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "资料分析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "资料分析 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -172,13 +170,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "资料分析.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "资料分析 的大纲"
+              "title": "大纲"
             }
           }
         ]
@@ -199,11 +196,11 @@
       "bases:新建数据库": false
     }
   },
-  "active": "c0d3a45ba7e930d2",
+  "active": "d905ff7b38d8385b",
   "lastOpenFiles": [
+    "资料分析.md",
     "Pasted image 20260201123946.png",
     "Pasted image 20260201123847.png",
-    "欢迎.md",
-    "资料分析.md"
+    "欢迎.md"
   ]
 }
